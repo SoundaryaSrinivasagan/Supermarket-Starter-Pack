@@ -13,6 +13,10 @@ __Technologies:__
 
 ![my image](./assets/architecture.png)
 
+#### Inventory Management System
+Description
+
+#### Register Checkout System
 Description
 
   
