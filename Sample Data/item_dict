@@ -1,3 +1,6 @@
+# Item Dictionary
+# Contains the items in the store along with its price
+
 item_dict = {'almonds': 6,
  'antioxidant juice': 9,
  'avocado': 1,
