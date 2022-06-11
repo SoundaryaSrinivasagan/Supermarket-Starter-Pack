@@ -8,13 +8,18 @@ __Targeted User:__ The product will be used by my Supermarket Business, this pro
 __Technologies:__
 > <span style = "color:green"> Git | Jupyter Notebook/Google Colab </span>
 
-## <ins> Implementation
+## <ins> Design
 ### Project Architecture
 
 ![my image](./assets/architecture.png)
 
 Description
 
+  
+## <ins> Product Usage
+
+Description
+  
 
 ## <ins> Improvements
 - Description
