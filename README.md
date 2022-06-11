@@ -13,7 +13,7 @@ __Technologies:__
 ## <ins> Implementation
 ### Project Architecture
 
-![my image](./assets/python.png)
+![my image](./assets/architecture.png)
 
 Description
 
