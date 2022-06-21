@@ -34,7 +34,7 @@ The Inventory Management System can be used to keep a track of how much items we
 
 ## <ins> Product Usage
 
-Description
+This section will be updated with Version 2.0 release, currently planning to use Docker/Bash Scripts to execute this project
 
 ## <ins> Testing
 
